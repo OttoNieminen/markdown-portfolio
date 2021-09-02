@@ -1,1 +1,1 @@
-https://github.com/OttoNieminen
+[Otto Nieminen](https://github.com/OttoNieminen)
